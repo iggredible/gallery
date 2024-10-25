@@ -12,7 +12,8 @@
   "dependencies": {
     "lightgallery": "^2.7.2",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "vite": "^5.4.9"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
@@ -23,7 +24,6 @@
     "eslint-plugin-react": "^7.37.1",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.13",
-    "globals": "^15.11.0",
-    "vite": "^5.4.9"
+    "globals": "^15.11.0"
   }
 }
